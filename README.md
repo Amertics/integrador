@@ -1,3 +1,3 @@
 #Documentacion de integrador (cuatrimestre anterior)
 
-* [Proyecto_integrador](https://github.com/Netgineer0/IntegradorDocumentacion/blob/main/articulo.pdf)
+* [Proyecto_integrador](https://github.com/Amertics/integrador/blob/main/Proyecto%20Integrador.pdf)
